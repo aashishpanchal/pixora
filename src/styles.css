@@ -14,6 +14,10 @@
   --font-semibold: 'robotoslab-semiBold';
   --font-medium: 'robotoslab-medium';
   --font-regular: 'robotoslab-regular';
+
+  /* Neutral */
+  --color-white: #f6f6f6;
+  --color-black: #161616;
 }
 
 @layer theme {
