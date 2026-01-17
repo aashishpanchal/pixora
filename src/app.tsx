@@ -13,7 +13,7 @@ const App: React.FC = () => {
       <StatusBar
         translucent
         backgroundColor="transparent"
-        barStyle={theme === 'dark' ? 'dark-content' : 'light-content'}
+        barStyle={theme === 'dark' ? 'light-content' : 'dark-content'}
       />
     </Providers>
   );

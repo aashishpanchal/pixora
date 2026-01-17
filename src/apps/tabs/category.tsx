@@ -4,7 +4,7 @@ import {TabScreenProp} from '@/types/router';
 
 type Props = TabScreenProp<'Category'>;
 
-/* ---------- Component ---------- */
+/* ---------- Screen ---------- */
 export const Category = (props: Props) => {
   return (
     <View>

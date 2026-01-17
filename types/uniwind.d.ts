@@ -2,9 +2,9 @@
 /// <reference types="@niibase/uniwind/types" />
 
 declare module '@niibase/uniwind' {
-  export interface UniwindConfig {
-    themes: readonly ['light', 'dark'];
-  }
+    export interface UniwindConfig {
+        themes: readonly ['light', 'dark']
+    }
 }
 
-export {};
+export {}

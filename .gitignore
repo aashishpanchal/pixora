@@ -77,3 +77,4 @@ yarn-error.log
 # Env variables
 .env
 .env.prod
+types/uniwind.d.ts

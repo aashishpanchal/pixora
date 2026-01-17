@@ -3,6 +3,7 @@ export const images = Object.freeze({
   logoLight: require('@/assets/imgs/lighter.png'),
   // Splash
   splash: [
+    'https://i.pinimg.com/736x/a7/f5/6c/a7f56c4f15590f0c15c2b6d881b71211.jpg',
     'https://i.pinimg.com/474x/7c/6e/e9/7c6ee9f604f51a0cd4ad2950bf757e58.jpg',
     'https://i.pinimg.com/474x/07/37/1a/07371a63fe26c9c81df6c5077710be47.jpg',
     'https://i.pinimg.com/474x/67/89/c5/6789c5fc1de2447a0797d86753478048.jpg',
@@ -29,5 +30,7 @@ export const images = Object.freeze({
     'https://i.pinimg.com/474x/a7/27/7d/a7277d76e440c048eacd50df68292dd5.jpg',
     'https://i.pinimg.com/474x/4a/00/a6/4a00a60b7247c9d4a92a682e952654e3.jpg',
     'https://i.pinimg.com/474x/fc/df/72/fcdf721932a8a9e22abbfa0e11d389a1.jpg',
+    'https://i.pinimg.com/736x/bc/7c/7a/bc7c7a4f96e65fb1d084eed5e997fc63.jpg',
+    'https://i.pinimg.com/736x/df/09/5a/df095a9ca997338c75b38bc5152f40cc.jpg',
   ],
 });

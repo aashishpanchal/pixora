@@ -7,8 +7,8 @@ type Props = StackScreenProp<'Signup'>;
 /* ---------- Component ---------- */
 export const Signup = (props: Props) => {
   return (
-    <View>
-      <Text>Signin Screen</Text>
+    <View className="flex-1 bg-background justify-center items-center">
+      <Text className="text-foreground font-bold">Signup Screen</Text>
     </View>
   );
 };

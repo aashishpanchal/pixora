@@ -4,7 +4,7 @@ import {TabScreenProp} from '@/types/router';
 
 type Props = TabScreenProp<'Trending'>;
 
-/* ---------- Component ---------- */
+/* ---------- Screen ---------- */
 export const Trending = (props: Props) => {
   return (
     <View>

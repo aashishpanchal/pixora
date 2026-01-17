@@ -4,7 +4,7 @@ import {TabScreenProp} from '@/types/router';
 
 type Props = TabScreenProp<'Ringtone'>;
 
-/* ---------- Component ---------- */
+/* ---------- Screen ---------- */
 export const Ringtone = (props: Props) => {
   return (
     <View>
